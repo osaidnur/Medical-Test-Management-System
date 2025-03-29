@@ -61,4 +61,4 @@ Upon startup, the system reads test data from `MedicalTest.txt` and presents the
 ## 👨‍💻 Authors
 
 - **Osaid Nur** – 1210733
-- **Moath Wajeeh** – 1210125
+- [**Moath Wajeeh**](https://github.com/SuperMoathx7) – 1210125
