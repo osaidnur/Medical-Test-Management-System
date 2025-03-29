@@ -4,11 +4,11 @@ A MIPS Assembly-based system built using the **MARS simulator**, designed to man
 
 ## 📚 Table of Contents
 
-- [Features](#features)
-- [System Options](#system-options)
-- [Files Included](#files-included)
-- [How to Run](#how-to-run)
-- [Authors](#authors)
+- [Features](#-features)
+- [System Options](#-system-options)
+- [Files Included](#-files-included)
+- [How to Run](#-how-to-run)
+- [Authors](#-authors)
 
 ## 📌 Features
 
