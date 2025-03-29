@@ -50,7 +50,7 @@ Upon startup, the system reads test data from `MedicalTest.txt` and presents the
 - `Project Report.pdf` – In-depth documentation and development details
 - `Project_1_Description.pdf` – Original assignment brief and requirements
 
-## 🛠️ How to Run
+## 🔨 How to Run
 
 1. Download and open [MARS (MIPS Assembler and Runtime Simulator)](https://github.com/dpetersanderson/MARS/releases/tag/v.4.5.1)
 2. Load the file `P1_1210733_1210125.asm` into MARS.
