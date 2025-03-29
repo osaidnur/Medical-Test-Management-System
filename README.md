@@ -52,7 +52,7 @@ Upon startup, the system reads test data from `MedicalTest.txt` and presents the
 
 ## 🛠️ How to Run
 
-1. Download and open [MARS (MIPS Assembler and Runtime Simulator)]([http://courses.missouristate.edu/KenVollmar/MARS/](https://github.com/dpetersanderson/MARS/releases/tag/v.4.5.1)).
+1. Download and open [MARS (MIPS Assembler and Runtime Simulator)](http://courses.missouristate.edu/KenVollmar/MARS/](https://github.com/dpetersanderson/MARS/releases/tag/v.4.5.1).
 2. Load the file `P1_1210733_1210125.asm` into MARS.
 3. Click **Assemble**, then **Run**.
 4. Follow the menu prompts to test the system features.
