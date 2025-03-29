@@ -60,5 +60,5 @@ Upon startup, the system reads test data from `MedicalTest.txt` and presents the
 
 ## 👨‍💻 Authors
 
-- **Osaid Hasan Nur** – 1210733
-- **[Moath Wajeeh]** – 1210125
+- **Osaid Nur** – 1210733
+- **Moath Wajeeh** – 1210125
